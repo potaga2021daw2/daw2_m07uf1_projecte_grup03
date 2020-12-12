@@ -1,1 +1,5 @@
-# daw2_m07uf1_projecte_grup03
+S'ha de donar permissos de edició als arxius: 
+/PHP/usuaris
+/PHP/usuarisadmin
+/PHP/comandes
+/PHP/productes
