@@ -1,6 +1,6 @@
 S'ha de donar permissos de edició als arxius: 
 <br>
-/PHP/usuaris
-/PHP/usuarisadmin
-/PHP/comandes
+/PHP/usuaris<br>
+/PHP/usuarisadmin<br>
+/PHP/comandes<br>
 /PHP/productes
